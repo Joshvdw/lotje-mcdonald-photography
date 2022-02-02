@@ -1,0 +1,2 @@
+2022-02-02T02:33:45+00:00 CRITICAL Out of memory (allocated 23592960) (tried to allocate 4096 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-content/plugins/social-icons-widget-by-wpzoom/includes/icons-data.php on line 11
+

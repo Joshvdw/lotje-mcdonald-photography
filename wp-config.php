@@ -37,6 +37,10 @@ define( 'DB_CHARSET', 'utf8mb4' );
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
+/** cusotm code for stopping web server request when performing actions such as installing plugins */
+define( 'FS_METHOD', 'direct' );
+
+
 /**#@+
  * Authentication unique keys and salts.
  *
