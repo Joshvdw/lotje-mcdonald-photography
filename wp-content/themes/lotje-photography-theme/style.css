@@ -13,3 +13,45 @@ Text Domain:  twentytwentytwochild
 /* .wp-block-template-part {
   background-color: red;
 } */
+.wp-block-group {
+  /* padding: 0!important; */
+}
+
+.no-mt {
+  margin-top: 0!important;
+
+}
+
+.no-p {
+  padding-top: 0 !important;
+}
+
+.no-px {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.wpcf7-textarea {
+  width: 700px!important;
+  padding: 10px !important;
+}
+
+.wpcf7-form input {
+  padding: 5px!important;
+}
+
+/* .wp-container-61fb3e2151170 {
+  margin: 0!important;
+}
+
+.wp-container-61fb4014b5ab2>*+* {
+  margin-top: 0!important;
+}
+
+--wp--style--block-gap: 1.5rem; */
+
+/* * {
+  margin: 0!important;
+  padding: 0 !important;
+  background-color: red;
+} */
