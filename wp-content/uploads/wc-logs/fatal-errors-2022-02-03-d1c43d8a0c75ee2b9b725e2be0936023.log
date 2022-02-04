@@ -44,3 +44,5 @@
 
 2022-02-03T04:49:24+00:00 CRITICAL Out of memory (allocated 11010048) (tried to allocate 20480 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-includes/rest-api.php on line 3274
 
+2022-02-03T21:59:48+00:00 CRITICAL Out of memory (allocated 36175872) (tried to allocate 32768 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-content/plugins/jetpack/locales.php on line 236
+
