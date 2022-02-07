@@ -9,13 +9,7 @@ Version:      1.0.0
 Text Domain:  twentytwentytwochild
 */
 
-/* TEST */
-/* .wp-block-template-part {
-  background-color: red;
-} */
-.wp-block-group {
-  /* padding: 0!important; */
-}
+/* HOME-PAGE */
 
 .no-mt {
   margin-top: 0!important;
@@ -31,14 +25,51 @@ Text Domain:  twentytwentytwochild
   padding-right: 0 !important;
 }
 
+/* PRINTS-SHOWCASE */
+.third-image {
+  margin-left: 0!important;
+}
+
+.print-showcase {
+  width: 100vw!important;
+}
+
+/* CONTACT-FORM */
+
 .wpcf7-textarea {
-  width: 700px!important;
+  width: 500px!important;
   padding: 10px !important;
 }
 
-.wpcf7-form input {
+.wpcf7-text {
+  width: 425px !important;
   padding: 5px!important;
 }
+
+/* IMAGE-SLIDER */
+
+.wp-block-group {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  /* width: 100vw !important; */
+}
+
+.home-custom-image {
+  width: 100%!important;
+  margin: 0!important;
+}
+
+.slides img {
+  width: 100%!important;
+  height: 100%!important;
+  margin: 0!important;
+  overflow: hidden!important;
+}
+
+#wp--skip-link--target {
+  margin-top: 0px!important;
+}
+
 
 /* .wp-container-61fb3e2151170 {
   margin: 0!important;
