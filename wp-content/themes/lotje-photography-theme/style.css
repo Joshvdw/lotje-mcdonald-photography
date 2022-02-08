@@ -9,11 +9,15 @@ Version:      1.0.0
 Text Domain:  twentytwentytwochild
 */
 
-/* HOME-PAGE */
+/* HEADER-NAV */
+.has-cyan-bluish-gray-color {
+  color: #1a4548!important
+}
 
+
+/* HOME-PAGE */
 .no-mt {
   margin-top: 0!important;
-
 }
 
 .no-p {
@@ -25,6 +29,7 @@ Text Domain:  twentytwentytwochild
   padding-right: 0 !important;
 }
 
+
 /* PRINTS-SHOWCASE */
 .third-image {
   margin-left: 0!important;
@@ -34,20 +39,20 @@ Text Domain:  twentytwentytwochild
   width: 100vw!important;
 }
 
-/* CONTACT-FORM */
 
+/* CONTACT-FORM */
 .wpcf7-textarea {
-  width: 500px!important;
+  width: 400px!important;
   padding: 10px !important;
 }
 
 .wpcf7-text {
-  width: 425px !important;
+  width: 400px !important;
   padding: 5px!important;
 }
 
-/* IMAGE-SLIDER */
 
+/* IMAGE-SLIDER */
 .wp-block-group {
   padding-left: 0 !important;
   padding-right: 0 !important;
@@ -71,18 +76,19 @@ Text Domain:  twentytwentytwochild
 }
 
 
-/* .wp-container-61fb3e2151170 {
-  margin: 0!important;
+/* WOOCOMMERCE-SHOP */
+.product-category a {
+  text-decoration: none!important;
 }
 
-.wp-container-61fb4014b5ab2>*+* {
-  margin-top: 0!important;
+
+/* ABOUT-ME */
+.about-container {
+  width: 66.66%!important;
+  margin: 0 auto!important;
 }
 
---wp--style--block-gap: 1.5rem; */
-
-/* * {
-  margin: 0!important;
-  padding: 0 !important;
-  background-color: red;
-} */
+.market-img-container {
+  padding-left: 0!important;
+  padding-right: 0 !important;
+}

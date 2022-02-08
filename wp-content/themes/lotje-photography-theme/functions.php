@@ -17,3 +17,6 @@ function my_theme_enqueue_styles() {
     );
 }
 add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
+
+// Remove the category count for WooCommerce categories
+add_filter( 'woocommerce_subcategory_count_html', '__return_null' );
