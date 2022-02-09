@@ -10,9 +10,14 @@ Text Domain:  twentytwentytwochild
 */
 
 /* HEADER-NAV */
-.has-cyan-bluish-gray-color {
-  color: #1a4548!important
+
+.sticky-header {
+  z-index: 99999!important;
 }
+
+/* .has-cyan-bluish-gray-color {
+  color: #1a4548!important
+} */
 
 
 /* HOME-PAGE */
@@ -29,6 +34,29 @@ Text Domain:  twentytwentytwochild
   padding-right: 0 !important;
 }
 
+.welcome-banner {
+  /* to display banner header */
+  display: none!important; 
+  /*  */
+  position: absolute!important;
+  width: 75%!important;
+  top: 350px!important;
+  left: 0!important;
+  right: 0!important;
+  bottom: 0!important;
+  margin: 0 auto!important;
+  text-shadow: 3px 2px 5px rgba(0, 0, 0, 0.75)!important;
+}
+
+.welcome-banner-inner {
+  padding: 20px !important;
+  margin: 0 auto !important;
+}
+
+.banner-header {
+  margin-top: 0!important;
+}
+
 
 /* PRINTS-SHOWCASE */
 .third-image {
@@ -42,12 +70,12 @@ Text Domain:  twentytwentytwochild
 
 /* CONTACT-FORM */
 .wpcf7-textarea {
-  width: 400px!important;
+  width: 75%!important;
   padding: 10px !important;
 }
 
 .wpcf7-text {
-  width: 400px !important;
+  width: 60% !important;
   padding: 5px!important;
 }
 
@@ -84,11 +112,23 @@ Text Domain:  twentytwentytwochild
 
 /* ABOUT-ME */
 .about-container {
-  width: 66.66%!important;
+  width: 75%!important;
   margin: 0 auto!important;
 }
 
 .market-img-container {
-  padding-left: 0!important;
+  /* padding-left: 0!important; */
   padding-right: 0 !important;
+}
+
+.market-text-container {
+  padding-left: 0!important;
+}
+
+.calendar-container figure {
+  margin-left: 0px!important;
+}
+
+.market-container figure {
+  margin-right: 0px !important;
 }

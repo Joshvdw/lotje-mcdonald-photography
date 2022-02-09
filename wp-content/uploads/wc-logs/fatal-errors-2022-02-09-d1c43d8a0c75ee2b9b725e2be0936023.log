@@ -1,0 +1,20 @@
+2022-02-09T00:26:34+00:00 CRITICAL Out of memory (allocated 80740352) (tried to allocate 45056 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php on line 90
+
+2022-02-09T00:26:39+00:00 CRITICAL Out of memory (allocated 24117248) (tried to allocate 1085440 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-includes/rest-api/class-wp-rest-server.php on line 516
+
+2022-02-09T00:27:04+00:00 CRITICAL Out of memory (allocated 13107200) (tried to allocate 524288 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-content/plugins/jetpack/locales.php on line 2252
+
+2022-02-09T00:27:04+00:00 CRITICAL Out of memory (allocated 31981568) (tried to allocate 524288 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-content/plugins/jetpack/locales.php on line 2252
+
+2022-02-09T00:31:16+00:00 CRITICAL Out of memory (allocated 11534336) (tried to allocate 20480 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-includes/rest-api/class-wp-rest-server.php on line 1482
+
+2022-02-09T00:32:22+00:00 CRITICAL Out of memory (allocated 78643200) (tried to allocate 53248 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php on line 1591
+
+2022-02-09T00:37:59+00:00 CRITICAL Out of memory (allocated 49283072) (tried to allocate 8192 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-admin/includes/post.php on line 2316
+
+2022-02-09T01:23:31+00:00 CRITICAL Out of memory (allocated 11534336) (tried to allocate 1085440 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-includes/rest-api/class-wp-rest-server.php on line 516
+
+2022-02-09T01:25:59+00:00 CRITICAL Out of memory (allocated 38273024) (tried to allocate 65536 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php on line 90
+
+2022-02-09T01:26:08+00:00 CRITICAL Out of memory (allocated 30408704) (tried to allocate 1085440 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-includes/rest-api/class-wp-rest-server.php on line 516
+
