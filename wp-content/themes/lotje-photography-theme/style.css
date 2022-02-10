@@ -10,14 +10,9 @@ Text Domain:  twentytwentytwochild
 */
 
 /* HEADER-NAV */
-
 .sticky-header {
   z-index: 99999!important;
 }
-
-/* .has-cyan-bluish-gray-color {
-  color: #1a4548!important
-} */
 
 
 /* HOME-PAGE */
@@ -57,6 +52,19 @@ Text Domain:  twentytwentytwochild
   margin-top: 0!important;
 }
 
+/* SEARCH-BAR */
+.search-bar div {
+  border: none!important;
+}
+
+.wp-block-search__button {
+  margin-left: 0.3em!important;
+}
+
+.cart-icon img {
+  opacity: .7!important;
+}
+
 
 /* PRINTS-SHOWCASE */
 .third-image {
@@ -84,7 +92,6 @@ Text Domain:  twentytwentytwochild
 .wp-block-group {
   padding-left: 0 !important;
   padding-right: 0 !important;
-  /* width: 100vw !important; */
 }
 
 .home-custom-image {
@@ -117,7 +124,6 @@ Text Domain:  twentytwentytwochild
 }
 
 .market-img-container {
-  /* padding-left: 0!important; */
   padding-right: 0 !important;
 }
 

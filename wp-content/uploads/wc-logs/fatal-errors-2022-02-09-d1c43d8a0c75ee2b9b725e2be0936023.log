@@ -18,3 +18,19 @@
 
 2022-02-09T01:26:08+00:00 CRITICAL Out of memory (allocated 30408704) (tried to allocate 1085440 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-includes/rest-api/class-wp-rest-server.php on line 516
 
+2022-02-09T23:45:11+00:00 CRITICAL Out of memory (allocated 17825792) (tried to allocate 32768 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-admin/includes/ajax-actions.php on line 3923
+
+2022-02-09T23:47:21+00:00 CRITICAL Out of memory (allocated 7340032) (tried to allocate 32768 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-admin/includes/ajax-actions.php on line 3923
+
+2022-02-09T23:53:53+00:00 CRITICAL Out of memory (allocated 45088768) (tried to allocate 524288 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-content/plugins/jetpack/locales.php on line 2252
+
+2022-02-09T23:57:07+00:00 CRITICAL Out of memory (allocated 22020096) (tried to allocate 32768 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/API/Reports/Customers/Stats/Controller.php on line 1
+
+2022-02-09T23:57:07+00:00 CRITICAL Out of memory (allocated 49283072) (tried to allocate 864256 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-includes/class.wp-scripts.php on line 512
+
+2022-02-09T23:57:11+00:00 CRITICAL Out of memory (allocated 45088768) (tried to allocate 1929216 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-includes/class.wp-scripts.php on line 520
+
+2022-02-09T23:57:31+00:00 CRITICAL Out of memory (allocated 11534336) (tried to allocate 524288 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-content/plugins/jetpack/locales.php on line 2252
+
+2022-02-09T23:59:47+00:00 CRITICAL Out of memory (allocated 42467328) (tried to allocate 49152 bytes) in /opt/lampp/htdocs/lotje-mcdonald-photography/wp-content/plugins/woo-stripe-payment/includes/class-stripe.php on line 186
+
