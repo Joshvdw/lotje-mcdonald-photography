@@ -14,6 +14,9 @@ Text Domain:  twentytwentytwochild
   z-index: 99999!important;
 }
 
+.header-logo {
+  padding-left: 30px!important;
+}
 
 /* HOME-PAGE */
 .no-mt {
@@ -61,8 +64,15 @@ Text Domain:  twentytwentytwochild
   margin-left: 0.3em!important;
 }
 
+/* CART-ICON */
 .cart-icon img {
   opacity: .7!important;
+  height: 24px!important;
+  margin-top: 2.5px !important;
+}
+
+.cart-container {
+  margin-top: 2.5px !important;
 }
 
 
